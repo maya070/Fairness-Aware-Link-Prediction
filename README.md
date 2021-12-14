@@ -9,5 +9,5 @@ Cora, Citeseer, Facebook
 
 This code was contributed by
 [suhyunyoon](https://github.com/suhyunyoon), 
-[jiyounglim](https://github.com/maya070),
+[jiyounglim](https://github.com/maya070),  
 [heeyooon](https://github.com/heeyooon), 
